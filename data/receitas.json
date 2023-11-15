@@ -1,0 +1,36 @@
+[
+    {
+      "nome": "Lasanha",
+      "ingredientes": [
+        {"ingrediente": "macarrão para lasanha", "quantidade": "200g", "custo": "2.50"},
+        {"ingrediente": "molho de tomate", "quantidade": "500ml", "custo": "3.00"},
+        {"ingrediente": "carne moída", "quantidade": "400g", "custo": "5.00"},
+        {"ingrediente": "queijo", "quantidade": "200g", "custo": "4.00"},
+        {"ingrediente": "manteiga", "quantidade": "50g", "custo": "1.00"}
+      ],
+      "instrucoes": "Cozinhe o macarrão, faça o molho de tomate, cozinhe a carne, monte as camadas e asse no forno."
+    },
+    {
+      "nome": "Salada Caesar",
+      "ingredientes": [
+        {"ingrediente": "alface romana", "quantidade": "1 cabeça", "custo": "2.00"},
+        {"ingrediente": "croutons", "quantidade": "1 xícara", "custo": "1.50"},
+        {"ingrediente": "queijo parmesão", "quantidade": "50g", "custo": "3.00"},
+        {"ingrediente": "peito de frango grelhado", "quantidade": "300g", "custo": "6.00"},
+        {"ingrediente": "molho Caesar", "quantidade": "150ml", "custo": "2.50"}
+      ],
+      "instrucoes": "Misture os ingredientes, adicione o frango grelhado e regue com molho Caesar."
+    },
+    {
+      "nome": "Sopa de Abóbora",
+      "ingredientes": [
+        {"ingrediente": "abóbora", "quantidade": "1 kg", "custo": "2.50"},
+        {"ingrediente": "cebola", "quantidade": "1", "custo": "0.50"},
+        {"ingrediente": "alho", "quantidade": "2 dentes", "custo": "0.30"},
+        {"ingrediente": "caldo de galinha", "quantidade": "1 litro", "custo": "1.50"},
+        {"ingrediente": "creme de leite", "quantidade": "200ml", "custo": "1.80"}
+      ],
+      "instrucoes": "Refogue a cebola e o alho, adicione a abóbora e o caldo de galinha, cozinhe até ficar macio, bata no liquidificador e adicione o creme de leite."
+    }
+   
+  ]
