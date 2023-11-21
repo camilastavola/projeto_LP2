@@ -34,12 +34,12 @@
     {
       "nome": "Lombo Natalino",
       "ingredientes": [
-        {"ingrediente": "Lombo de Porco", "Quantidade": "1kg", "custo": 20.00},
-        {"ingrediente": "Mostarda Dijon", "Quantidade": "50g", "custo": 5.00},
-        {"ingrediente": "Mel", "Quantidade": "100ml", "custo": 2.00},
-        {"ingrediente": "Batata Aperitivo", "Quantidade": "500g", "custo": 3.00},
-        {"ingrediente": "Manteiga sem Sal", "Quantidade": "50g", "custo": 2.00},
-        {"ingrediente": "Shoyu", "Quantidade": "50ml", "custo": 0.50}
+        {"ingrediente": "Lombo de Porco", "quantidade": "1kg", "custo": 20.00},
+        {"ingrediente": "Mostarda Dijon", "quantidade": "50g", "custo": 5.00},
+        {"ingrediente": "Mel", "quantidade": "100ml", "custo": 2.00},
+        {"ingrediente": "Batata Aperitivo", "quantidade": "500g", "custo": 3.00},
+        {"ingrediente": "Manteiga sem Sal", "quantidade": "50g", "custo": 2.00},
+        {"ingrediente": "Shoyu", "quantidade": "50ml", "custo": 0.50}
       ],
       "instrucoes": "Tempere o lombo no dia anterior com sal e pimenta, vinho branco, alho e alecrim. Sele numa frigideira quente, faça um molho com os demais ingredientes e despeje sobre o lombo. Asse a 200 graus por 40 min."
     },
