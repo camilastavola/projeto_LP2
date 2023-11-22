@@ -35,6 +35,7 @@ O projeto final do módulo de Lógica de Programação II foi uma maneira muito 
 ## 4. Dificuldades
 
 Descrever as dificuldades.
+Tivemos dificuldade na construção das funções min e max de forma a salvar os resultados em abas diferentes no csv, pois, ao salvar aparecia o erro de que não era possível salvar dados de tipos diferentes. Já que o resultado retornava o nome da receita, no formato string, e o custo, no formato float. Lucas conseguiu chegar na solução do problema.
 
 ## 5. Créditos e contribuições
 
@@ -42,7 +43,7 @@ Rodrigo Ventura - criou o Read Me
 
 Camila Stavola - 
 
-Jessica Moreira - 
+Jéssica Moreira - Elaboração da função custo total por receita, construção inicial das funções min e max e exportação para csv.
 
 Lavínia Beatriz - funções responsáveis por atualizar a lista de receitas e deletar algum elemento, menu principal e auxílio no processamentos dos dados estatísticos 
 
