@@ -39,7 +39,11 @@ Descrever as dificuldades.
 ## 5. Créditos e contribuições
 
 Rodrigo Ventura - criou o Read Me
+
 Camila Stavola - 
+
 Jessica Moreira - 
-Lavínia Beatriz - 
+
+Lavínia Beatriz - funções responsáveis por atualizar a lista de receitas e deletar algum elemento, menu principal e auxílio no processamentos dos dados estatísticos 
+
 Lucas Fernando - 
