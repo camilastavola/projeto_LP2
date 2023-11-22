@@ -45,6 +45,6 @@ Camila Stavola -
 
 Jéssica Moreira - Elaboração da função custo total por receita, construção inicial das funções min e max e exportação para csv.
 
-Lavínia Beatriz - funções responsáveis por atualizar a lista de receitas e deletar algum elemento, menu principal e auxílio no processamentos dos dados estatísticos 
+Lavínia Beatriz - funções responsáveis por atualizar a lista de receitas e deletar algum elemento, menu principal e auxílio nos dados estatísticos 
 
 Lucas Fernando - estrutura geral do projeto, funções de carregamento de arquivo, leitura de dados do arquivo e algumas atualizações gerais em outras funções.
