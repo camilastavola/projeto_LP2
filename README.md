@@ -47,4 +47,4 @@ Jéssica Moreira - Elaboração da função custo total por receita, construçã
 
 Lavínia Beatriz - funções responsáveis por atualizar a lista de receitas e deletar algum elemento, menu principal e auxílio no processamentos dos dados estatísticos 
 
-Lucas Fernando - 
+Lucas Fernando - estrutura geral do projeto, funções de carregamento de arquivo, leitura de dados do arquivo e algumas atualizações gerais em outras funções.
