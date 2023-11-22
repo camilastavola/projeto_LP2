@@ -79,7 +79,7 @@
         {"ingrediente": "Cebola", "quantidade": "10g", "custo": 0.03},
         {"ingrediente": "Manteiga", "quantidade": "20g", "custo": 0.88}
       ],
-      "instrucoes": ""
+      "instrucoes": "Selar o file com azeite sal e pimenta, em seguida adicionar a cebola processada e a manteiga. Acrescentar o gorgonzola esmigalhado e em seguida o molho bechamel"
     },
     {
       "nome": "Filetino ao Funghi",
@@ -111,8 +111,7 @@
         {"ingrediente": "Massa de Canelone", "quantidade": "8 un", "custo": 0.80},
         {"ingrediente": "Molho Bechamel", "quantidade": "160g", "custo": 1.16},
         {"ingrediente": "Molho de tomate", "quantidade": "200g", "custo": 1.00},
-        {"ingrediente": "Mussarela", "quantidade": "50g", "custo": 1.70},
-        {"ingrediente": "", "quantidade": "", "custo": ""}
+        {"ingrediente": "Mussarela", "quantidade": "50g", "custo": 1.70}
       ],
       "instrucoes": "Rechear as massas com o recheio de frango. Montar: Molho de tomate, 8 canelones, molho bechamel e mussarela."
     },
