@@ -2,7 +2,7 @@ def valida_opcoes(valor: str, opcoes: list) -> bool:
     return valor in opcoes
 
 def obter_opcoes(opcoes, msg='Opções'):
-    msg = f"{msg} ({' | '.join([f'{key} - {values}' for key, values in opcoes.items()])}):" 
+    msg = f"{msg} \n {' '.join([f'{key} - {values}' for key, values in opcoes.items()])} Opções:" 
     
     while True:
         valor = input(msg).upper()
@@ -10,7 +10,7 @@ def obter_opcoes(opcoes, msg='Opções'):
         if valida_opcoes(valor, opcoes.keys()):
             break
         
-        msg = f'Entrada Inválida! As opções validas são {", ".join(opcoes.keys())} \n' + msg
+        print(f' Entrada Inválida! As opções validas são {", ".join(opcoes.keys())}')
         
     return valor
 
