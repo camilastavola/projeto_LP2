@@ -1,3 +1,25 @@
-﻿('Lasanha', 12);('Salada Caesar', 17.0);('Sopa de Abóbora', 6.6);('Lombo Natalino', 32.5);('Bacalhau com Natas', 35.9);('Gratin de Camarao com Mandioquinha', 43.55);('Filetino ao Gorgonzola', 31.43);('Filetino ao Funghi', 34.0);('Canelone de Camarao com Alho-poró', 18.26);('Canelone de Frango com Provolone', 16.16);('Rondelli de Ricota e Espinafre', 17.96);('Rondelli de Presunto e Queijo', 16.16);('Rondelli de Ricota e Tomate Seco', 25.84);('Lasanha 4 Queijos', 23.3);('Nhoque a Bolonhesa', 16.24);('Nhoque aos 4 Queijos', 17.47);('Nhoque ao Funghi', 17.34);('Nhoque Tomate e Pesto', 16.24);('Risoto de Funghi', 15.0);('Salada de Quinoa com Abacate', 11.5);('Frango ao Curry com Coco', 12.5);('Sopa de Legumes com Carne', 6.6);('Gratin de Camarao com Mandioquinha', 43.55);('Gratin de Camarao SEM Mandioquinha', 43.55)
-('Gratin de Camarao com Mandioquinha', 43.55);('Gratin de Camarao com Mandioquinha', 43.55);('Gratin de Camarao SEM Mandioquinha', 43.55)
-('Sopa de Abóbora', 6.6);('Sopa de Legumes com Carne', 6.6)
+﻿Nome;Custo Total;Receita Mais Cara;Receita Mais Barata
+Lasanha;12.00;Gratin de Camarao com Mandioquinha;Sopa de Abóbora
+Salada Caesar;17.00;Gratin De Camarao Com Cenoura;Sopa de Legumes com Carne
+Sopa de Abóbora;6.60;Gratin De Camarao Com Batata;
+Lombo Natalino;32.50
+Bacalhau com Natas;35.90
+Filetino ao Gorgonzola;31.43
+Filetino ao Funghi;34.00
+Canelone de Camarao com Alho-poró;18.26
+Canelone de Frango com Provolone;16.16
+Rondelli de Ricota e Espinafre;17.96
+Rondelli de Presunto e Queijo;16.16
+Rondelli de Ricota e Tomate Seco;25.84
+Lasanha 4 Queijos;23.30
+Nhoque a Bolonhesa;16.24
+Nhoque aos 4 Queijos;17.47
+Nhoque ao Funghi;17.34
+Nhoque Tomate e Pesto;16.24
+Risoto de Funghi;15.00
+Salada de Quinoa com Abacate;11.50
+Frango ao Curry com Coco;12.50
+Sopa de Legumes com Carne;6.60
+Gratin de Camarao com Mandioquinha;43.55
+Gratin De Camarao Com Cenoura;43.55
+Gratin De Camarao Com Batata;43.55
