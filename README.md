@@ -30,20 +30,20 @@ O projeto final do módulo de Lógica de Programação II foi uma maneira muito 
 
 ## 3. Uso do Projeto
 
-É possível adicionar novas receitas, visualizar, alterar receitas e estatísticas gerais. Bem como calcular custos.
+É possível adicionar novas receitas, visualizar, alterar receitas e estatísticas gerais. Bem como calcular custos e visualizá-los por meio de um arquivo CSV, o qual também traz informações sobre quais seriam as receitas mais caras e mais baratas.
 
 ## 4. Dificuldades
 
-Tivemos dificuldade na construção das funções min e max de forma a salvar os resultados em abas diferentes no csv, pois, ao salvar aparecia o erro de que não era possível salvar dados de tipos diferentes. Já que o resultado retornava o nome da receita, no formato string, e o custo, no formato float. Lucas conseguiu chegar na solução do problema.
+O projeto se mostrou bastante desafiador inicialmente dada a sua proximidade com um problema real. Diante disso, precisamos assumir algumas restrições ao problema, limitando a um conjunto de dados que estivesse dentro do padrão esperado para este módulo. Após trazer o projeto para um escopo mais simples, tivemos algumas dificuldades com relação a implementação de códigos, as quais podemos citar as seguintes: construção das funções min e max, salvar os resultados em abas diferentes no csv, complexidade da função alterar considerando um dicionário dentro de um dicionário e filtrar os dados. Apesar disso, o resultado obtido para uma primeira versão do produto é bastante satisfatório e diversos pontos oportunistas para versões futuras. 
 
 ## 5. Créditos e contribuições
 
-Rodrigo Ventura - criou o Read Me
+* Camila Stavola - Construção do arquivo .json, função de calcula custo total das receitas. Diversas contribuições no escopo do projeto;
 
-Camila Stavola - Construção do arquivo .json, função de calcula custo total das receitas. Diversas contribuições no escopo do projeto.
+* Jéssica Moreira - Elaboração da função custo total por receita, construção inicial das funções min e max e exportação para csv;
 
-Jéssica Moreira - Elaboração da função custo total por receita, construção inicial das funções min e max e exportação para csv.
+* Lavínia Beatriz - Funções responsáveis por atualizar a lista de receitas e deletar algum elemento, menu principal e auxílio nos dados estatísticos;
 
-Lavínia Beatriz - funções responsáveis por atualizar a lista de receitas e deletar algum elemento, menu principal e auxílio nos dados estatísticos 
-
-Lucas Fernando - estrutura geral do projeto, funções de carregamento de arquivo, leitura de dados do arquivo e algumas atualizações gerais em outras funções.
+* Lucas Fernando - Estrutura geral do projeto, funções de carregamento de arquivo, leitura de dados do arquivo e algumas atualizações gerais em outras funções;
+  
+* Rodrigo Ventura - Criou o Readme.
